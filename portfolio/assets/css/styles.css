@@ -1,0 +1,49 @@
+/*Reset*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    margin-top: 10px;
+}
+a{
+    display: inline-block;
+}
+
+/*Componentes*/
+.card{
+    /* El width se lo tiene que dar el contenedor padre */
+    width: 20%;
+    padding: 16px;
+    border: 2px solid;
+    border-radius: 8px;
+    background-color: #3347D4;
+    display: inline-block;
+}
+
+.blue-card{
+    color: white;
+}
+
+/*Utilidades, modificadores donde me lo indiquen*/
+
+.text-white{
+    color: white;
+    text-decoration: none;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.spaced-top{
+    margin-top: 10px;
+}
+
+/* Layout */
+
+.container{
+    width: 80%;
+    margin: auto;
+}
