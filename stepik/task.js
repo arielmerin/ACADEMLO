@@ -53,3 +53,12 @@ function findMiddleNumber(array) {
     }
     return array.slice(array.length/2 -1, array.length/2 + 1)
 }
+
+// todo: replace this with an actual task
+function getEmails(users) {
+    const emails = []
+    for (let i = 0; i < users.length; i++){
+        emails.push(users[i].email)
+    }
+    return emails
+}
