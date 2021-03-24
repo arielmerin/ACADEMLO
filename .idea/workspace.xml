@@ -11,15 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/medidas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/medidas/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/assets/css/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boxModel/assets/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boxModel/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/inline-and-block-elements/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/inline-and-block-elements/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stepik/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/stepik/task.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +54,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -113,7 +108,8 @@
       <workItem from="1616034625974" duration="30000" />
       <workItem from="1616034672524" duration="202000" />
       <workItem from="1616034894250" duration="3308000" />
-      <workItem from="1616115103785" duration="7401000" />
+      <workItem from="1616115103785" duration="7684000" />
+      <workItem from="1616462287414" duration="5391000" />
     </task>
     <servers />
   </component>
@@ -130,6 +126,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="160" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615256188634">
