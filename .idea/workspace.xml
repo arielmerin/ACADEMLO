@@ -11,9 +11,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boxModel/assets/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boxModel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/elements.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/pages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/img/saltando.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portafolio-flex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position-absolute/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position-absolute/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position-fixed/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position-fixed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position-sticky/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position-sticky/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,20 +49,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pV2gQmH1xYAH96opGzmiRDlVKI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/html/medidas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,10 +79,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/html/medidas" />
       <recent name="$PROJECT_DIR$/stepik" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portafolio-flex/assets/css" />
+      <recent name="$PROJECT_DIR$/portafolio-flex/assets" />
       <recent name="$PROJECT_DIR$/portfolio/assets/css" />
       <recent name="$PROJECT_DIR$/portfolio/assets" />
     </key>
@@ -110,6 +132,8 @@
       <workItem from="1616034894250" duration="3308000" />
       <workItem from="1616115103785" duration="7684000" />
       <workItem from="1616462287414" duration="5391000" />
+      <workItem from="1616548721896" duration="7752000" />
+      <workItem from="1616636198179" duration="5875000" />
     </task>
     <servers />
   </component>
@@ -128,11 +152,18 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="363" y="160" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615256188634">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="363" y="160" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1615256188634" />
+    <state x="1828" y="90" width="428" height="482" key="FileChooserDialogImpl" timestamp="1616552695507">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1828" y="90" width="428" height="482" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616552695507" />
     <state width="745" height="209" key="GridCell.Tab.0.bottom" timestamp="1615343681855">
       <screen x="1366" y="0" width="768" height="1366" />
     </state>
@@ -213,5 +244,9 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1918" y="179" width="248" height="305" key="cloudConfig.SelfSettingsDialog/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616034868880" />
+    <state x="1711" y="170" key="run.anything.popup" timestamp="1616638423092">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1711" y="170" key="run.anything.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616638423092" />
   </component>
 </project>

@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    height: 200px;
+    background-color: wheat;
+}
+
+.p-absolute{
+    position: absolute;
+}
+.p-relative{
+    position: relative;
+}
+
+.child{
+    background-color: burlywood;
+    top: 10%;
+    bottom: 10%;
+    width: 100%;
+}
+
+.card{
+    width: 200px;
+    overflow: hidden;
+    background-color: wheat;
+}
+.description {
+    top: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.4);
+    transition: top 1s;
+}
+.card:hover .description{
+    display: block;
+    top: 100%;
+}
+.card-img{
+    width: 100%;
+}
+/*El position relative sirve para encimarlos entre sí, mover un elementos respecto a su posición original*/

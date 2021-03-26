@@ -1,0 +1,25 @@
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+[class*="col-"]{
+    padding: 16px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col3{
+    width:25%;
+}
+
+.col-4{
+    width:33.33%;
+}
+
+.col-6{
+    width: 50%;
+}
