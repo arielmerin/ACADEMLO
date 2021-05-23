@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 2rem;
+
+}
+
+.banner{
+    background-image: url("../img/vihvelibre-landpage.png");
+    /*width: 90vw;*/
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+
+.banner-title{
+    color: #3347D4;
+}
+
+.overlay{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.4);
+}
+
+/* relative sirve para encimarlos entre sí, mover un elementos respecto a su posición original*/
