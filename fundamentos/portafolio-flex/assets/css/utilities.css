@@ -1,0 +1,41 @@
+
+
+.display-flex{
+    display:flex;
+}
+
+.align-items-center{
+    align-items: center;
+}
+.align-items-bottom{
+    align-items: flex-end;
+}
+
+.centered{
+    justify-content: center;
+}
+
+.min-h-100-vh{
+    min-height: 100vh;
+}
+
+.font-weight-500{
+    font-weight: 500;
+}
+
+.spaced-top{
+    margin-top: 16px;
+}
+
+.margin-0{
+    margin: 0!important;
+}
+
+.text-primary{
+    color: #293DCB;
+}
+
+.text-secondary{
+    color: #747474;
+}
+

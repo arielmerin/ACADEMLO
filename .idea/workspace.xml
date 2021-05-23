@@ -11,25 +11,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/components.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/elements.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/pages.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/css/utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portafolio-flex/assets/img/saltando.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portafolio-flex/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-absolute/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-absolute/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-fixed/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-fixed/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-sticky/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position-sticky/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/position/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/BOOTSTRAP/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/BOOTSTRAP/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/BOOTSTRAP/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/BOOTSTRAP/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/1.counter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/1.counter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/1.counter/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/audio/audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/img/chocolat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/img/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/img/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/place-order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/2.css/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/2.css/img/chocolat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/2.css/img/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/2.css/img/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/2.css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/2.css/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/2.css/place-order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/tables.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flexbox/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flexbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxModel/assets/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/boxModel/assets/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxModel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/boxModel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find-middle-number.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/find-middle-number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/flexbox/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/flexbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/inline-and-block-elements/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/html/inline-and-block-elements/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/inline-and-block-elements/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/html/inline-and-block-elements/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/medidas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/html/medidas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/medidas/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/html/medidas/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ArraysObjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/js/ArraysObjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/js/arrays.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/arrays2.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/js/arrays2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/js/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/js/functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/js/objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less-difference.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/less-difference.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portafolio-flex/assets/css/components.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portafolio-flex/assets/css/components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portafolio-flex/assets/css/elements.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portafolio-flex/assets/css/elements.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portafolio-flex/assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portafolio-flex/assets/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portafolio-flex/assets/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portafolio-flex/assets/css/pages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portafolio-flex/assets/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portafolio-flex/assets/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portafolio-flex/assets/css/utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portafolio-flex/assets/css/utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portafolio-flex/assets/img/saltando.png" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portafolio-flex/assets/img/saltando.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portafolio-flex/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portafolio-flex/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portfolio/assets/css/grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portfolio/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-absolute/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/position-absolute/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-absolute/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/position-absolute/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-fixed/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/position-fixed/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-fixed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/position-fixed/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-sticky/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/position-sticky/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position-sticky/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/position-sticky/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/position/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/position/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smallest-duration.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/smallest-duration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepik/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentos/stepik/task.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +81,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -65,7 +107,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quotesMachine" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -78,36 +120,39 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/html/medidas" />
-      <recent name="$PROJECT_DIR$/stepik" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/css" />
+      <recent name="$PROJECT_DIR$/fundamentos" />
+      <recent name="$PROJECT_DIR$/BOOTSTRAP/css" />
+      <recent name="$PROJECT_DIR$/BOOTSTRAP/js" />
       <recent name="$PROJECT_DIR$/portafolio-flex/assets/css" />
-      <recent name="$PROJECT_DIR$/portafolio-flex/assets" />
-      <recent name="$PROJECT_DIR$/portfolio/assets/css" />
-      <recent name="$PROJECT_DIR$/portfolio/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react/udemy/2.Complete-Front-End" />
+      <recent name="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/audio" />
+      <recent name="$PROJECT_DIR$/BOOTSTRAP/css" />
+      <recent name="$PROJECT_DIR$/BOOTSTRAP" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.arrays2.js">
-    <configuration name="ArraysObjects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ArraysObjects.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="ArraysObjects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/js/ArraysObjects.js" working-dir="$PROJECT_DIR$/fundamentos/js">
       <method v="2" />
     </configuration>
-    <configuration name="arrays2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/arrays2.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="arrays2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/js/arrays2.js" working-dir="$PROJECT_DIR$/fundamentos/js">
       <method v="2" />
     </configuration>
-    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/arrays.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/js/arrays.js" working-dir="$PROJECT_DIR$/fundamentos/js">
       <method v="2" />
     </configuration>
-    <configuration name="objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/objects.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/js/objects.js" working-dir="$PROJECT_DIR$/fundamentos/js">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.arrays2.js" />
         <item itemvalue="Node.js.objects.js" />
         <item itemvalue="Node.js.arrays.js" />
+        <item itemvalue="Node.js.arrays2.js" />
         <item itemvalue="Node.js.ArraysObjects.js" />
       </list>
     </recent_temporary>
@@ -134,6 +179,14 @@
       <workItem from="1616462287414" duration="5391000" />
       <workItem from="1616548721896" duration="7752000" />
       <workItem from="1616636198179" duration="5875000" />
+      <workItem from="1618942664786" duration="7590000" />
+      <workItem from="1619385684418" duration="6000" />
+      <workItem from="1619672708736" duration="680000" />
+      <workItem from="1619741693444" duration="1495000" />
+      <workItem from="1619743809186" duration="602000" />
+      <workItem from="1619993743259" duration="1899000" />
+      <workItem from="1619995728713" duration="9850000" />
+      <workItem from="1620416677380" duration="2577000" />
     </task>
     <servers />
   </component>
@@ -160,10 +213,11 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="363" y="160" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1615256188634" />
-    <state x="1828" y="90" width="428" height="482" key="FileChooserDialogImpl" timestamp="1616552695507">
+    <state x="1824" y="38" width="428" height="482" key="FileChooserDialogImpl" timestamp="1620020796509">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1828" y="90" width="428" height="482" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616552695507" />
+    <state x="460" y="64" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1618959360491" />
+    <state x="1824" y="38" width="428" height="482" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1620020796509" />
     <state width="745" height="209" key="GridCell.Tab.0.bottom" timestamp="1615343681855">
       <screen x="1366" y="0" width="768" height="1366" />
     </state>
@@ -232,10 +286,10 @@
       <screen x="1366" y="0" width="768" height="1366" />
     </state>
     <state width="745" height="470" key="GridCell.Tab.3.right/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930558" />
-    <state x="1536" y="-7" key="SettingsEditor" timestamp="1616034796071">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="344" y="-7" key="SettingsEditor" timestamp="1619743731982">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="1536" y="-7" key="SettingsEditor/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616034796071" />
+    <state x="344" y="-7" key="SettingsEditor/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1619743731982" />
     <state x="1769" y="179" width="546" height="303" key="cloudConfig.PluginsDialog" timestamp="1616034848856">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
@@ -244,9 +298,14 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1918" y="179" width="248" height="305" key="cloudConfig.SelfSettingsDialog/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616034868880" />
-    <state x="1711" y="170" key="run.anything.popup" timestamp="1616638423092">
+    <state x="1366" y="0" width="618" height="768" key="find.popup" timestamp="1620015871047">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1711" y="170" key="run.anything.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616638423092" />
+    <state x="1366" y="0" width="618" height="768" key="find.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1620015871047" />
+    <state x="1711" y="170" key="run.anything.popup" timestamp="1619995883579">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="345" y="170" key="run.anything.popup/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1618958445601" />
+    <state x="1711" y="170" key="run.anything.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1619995883579" />
   </component>
 </project>

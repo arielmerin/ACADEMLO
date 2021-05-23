@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    height: 200px;
+}
+
+.display-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: green;
+}
+.col-6{
+    width: 50%;
+    padding: 10px;
+}
