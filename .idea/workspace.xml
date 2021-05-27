@@ -10,61 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/useefect-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/src/Quotes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useefect-app/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/tictactoe-app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Board.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Board.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Game.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/ResetButton.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Square.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Square.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Turn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/setupTests.js" beforeDir="false" />
-    </list>
+    <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/weather-app" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -180,7 +126,7 @@
       <workItem from="1620416677380" duration="2577000" />
       <workItem from="1622082989153" duration="3852000" />
       <workItem from="1622122695575" duration="389000" />
-      <workItem from="1622123100254" duration="1831000" />
+      <workItem from="1622123100254" duration="2109000" />
     </task>
     <servers />
   </component>
@@ -207,11 +153,11 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="363" y="160" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1615256188634" />
-    <state x="1822" y="12" width="428" height="482" key="FileChooserDialogImpl" timestamp="1622123091370">
+    <state x="1820" y="-14" width="428" height="482" key="FileChooserDialogImpl" timestamp="1622125481111">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="460" y="64" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1618959360491" />
-    <state x="1822" y="12" width="428" height="482" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1622123091370" />
+    <state x="1820" y="-14" width="428" height="482" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1622125481111" />
     <state width="745" height="209" key="GridCell.Tab.0.bottom" timestamp="1615343681855">
       <screen x="1366" y="0" width="768" height="1366" />
     </state>
