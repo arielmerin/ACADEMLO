@@ -1,0 +1,11 @@
+.Board{
+    width: auto;
+    background-color: #fbc361;
+    display: table;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.Row{
+    display: flex;
+}
