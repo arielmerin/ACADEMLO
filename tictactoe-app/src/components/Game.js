@@ -2,6 +2,7 @@ import React from 'react'
 import Board from './Board'
 import {useState} from 'react'
 import ResetButton from "./ResetButton";
+import Turn from "./Turn";
 
 
 const Game = () =>{
@@ -50,10 +51,17 @@ const Game = () =>{
     const resetBoard = () =>{
         setBoard(board.map((elemento, index) => elemento = null))
     }
+    const handleTurn = () =>{
+        if(turn % 2 === 0){
+            return 'X';
+        }
+        return 'O'
+    }
 
     return<>
         <Board ties={board} handleClick={handleClickBoard}/>
         <ResetButton handleClick={resetBoard} />
+        <Turn nextTurn={handleTurn()} />
     </>
 };
 
