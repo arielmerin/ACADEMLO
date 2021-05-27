@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/useefect-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/src/Quotes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useefect-app/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/tictactoe-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Board.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Board.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/ResetButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Square.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/components/Turn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe-app/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pV2gQmH1xYAH96opGzmiRDlVKI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/css" />
+      <recent name="$PROJECT_DIR$/fundamentos" />
+      <recent name="$PROJECT_DIR$/BOOTSTRAP/css" />
+      <recent name="$PROJECT_DIR$/BOOTSTRAP/js" />
+      <recent name="$PROJECT_DIR$/portafolio-flex/assets/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react/udemy/2.Complete-Front-End" />
+      <recent name="$PROJECT_DIR$/react/udemy/2.Complete-Front-End/1.htmlpoject/audio" />
+      <recent name="$PROJECT_DIR$/BOOTSTRAP/css" />
+      <recent name="$PROJECT_DIR$/BOOTSTRAP" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.arrays2.js">
+    <configuration name="ArraysObjects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/js/ArraysObjects.js" working-dir="$PROJECT_DIR$/fundamentos/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="arrays2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/js/arrays2.js" working-dir="$PROJECT_DIR$/fundamentos/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/js/arrays.js" working-dir="$PROJECT_DIR$/fundamentos/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/js/objects.js" working-dir="$PROJECT_DIR$/fundamentos/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.objects.js" />
+        <item itemvalue="Node.js.arrays.js" />
+        <item itemvalue="Node.js.arrays2.js" />
+        <item itemvalue="Node.js.ArraysObjects.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="" />
+      <created>1615254047682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615254047682</updated>
+      <workItem from="1615254048711" duration="6044000" />
+      <workItem from="1615340678127" duration="4030000" />
+      <workItem from="1615942925225" duration="26000" />
+      <workItem from="1615942964475" duration="162000" />
+      <workItem from="1615944427195" duration="4266000" />
+      <workItem from="1616031061801" duration="2245000" />
+      <workItem from="1616034309870" duration="289000" />
+      <workItem from="1616034625974" duration="30000" />
+      <workItem from="1616034672524" duration="202000" />
+      <workItem from="1616034894250" duration="3308000" />
+      <workItem from="1616115103785" duration="7684000" />
+      <workItem from="1616462287414" duration="5391000" />
+      <workItem from="1616548721896" duration="7752000" />
+      <workItem from="1616636198179" duration="5875000" />
+      <workItem from="1618942664786" duration="7590000" />
+      <workItem from="1619385684418" duration="6000" />
+      <workItem from="1619672708736" duration="680000" />
+      <workItem from="1619741693444" duration="1495000" />
+      <workItem from="1619743809186" duration="602000" />
+      <workItem from="1619993743259" duration="1899000" />
+      <workItem from="1619995728713" duration="9850000" />
+      <workItem from="1620416677380" duration="2577000" />
+      <workItem from="1622082989153" duration="3852000" />
+      <workItem from="1622122695575" duration="389000" />
+      <workItem from="1622123100254" duration="1831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="160" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615256188634">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="160" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1615256188634" />
+    <state x="1822" y="12" width="428" height="482" key="FileChooserDialogImpl" timestamp="1622123091370">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="460" y="64" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1618959360491" />
+    <state x="1822" y="12" width="428" height="482" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1622123091370" />
+    <state width="745" height="209" key="GridCell.Tab.0.bottom" timestamp="1615343681855">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="209" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615343681855" />
+    <state width="1343" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1615262116604" />
+    <state width="745" height="209" key="GridCell.Tab.0.center" timestamp="1615343681855">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="209" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615343681855" />
+    <state width="1343" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1615262116603" />
+    <state width="745" height="209" key="GridCell.Tab.0.left" timestamp="1615343681855">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="209" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615343681855" />
+    <state width="1343" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1615262116603" />
+    <state width="745" height="209" key="GridCell.Tab.0.right" timestamp="1615343681855">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="209" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615343681855" />
+    <state width="1343" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1615262116603" />
+    <state width="745" height="470" key="GridCell.Tab.1.bottom" timestamp="1615340930557">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.1.bottom/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930557" />
+    <state width="745" height="470" key="GridCell.Tab.1.center" timestamp="1615340930557">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.1.center/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930557" />
+    <state width="745" height="470" key="GridCell.Tab.1.left" timestamp="1615340930557">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.1.left/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930557" />
+    <state width="745" height="470" key="GridCell.Tab.1.right" timestamp="1615340930557">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930557" />
+    <state width="745" height="470" key="GridCell.Tab.2.bottom" timestamp="1615340930558">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.2.bottom/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930558" />
+    <state width="745" height="470" key="GridCell.Tab.2.center" timestamp="1615340930558">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.2.center/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930558" />
+    <state width="745" height="470" key="GridCell.Tab.2.left" timestamp="1615340930557">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.2.left/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930557" />
+    <state width="745" height="470" key="GridCell.Tab.2.right" timestamp="1615340930558">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.2.right/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930558" />
+    <state width="745" height="470" key="GridCell.Tab.3.bottom" timestamp="1615340930558">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.3.bottom/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930558" />
+    <state width="745" height="470" key="GridCell.Tab.3.center" timestamp="1615340930558">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.3.center/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930558" />
+    <state width="745" height="470" key="GridCell.Tab.3.left" timestamp="1615340930558">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.3.left/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930558" />
+    <state width="745" height="470" key="GridCell.Tab.3.right" timestamp="1615340930558">
+      <screen x="1366" y="0" width="768" height="1366" />
+    </state>
+    <state width="745" height="470" key="GridCell.Tab.3.right/0.0.1366.768/1366.0.768.1366@1366.0.768.1366" timestamp="1615340930558" />
+    <state x="344" y="-7" key="SettingsEditor" timestamp="1619743731982">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="344" y="-7" key="SettingsEditor/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1619743731982" />
+    <state x="1769" y="179" width="546" height="303" key="cloudConfig.PluginsDialog" timestamp="1616034848856">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1769" y="179" width="546" height="303" key="cloudConfig.PluginsDialog/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616034848856" />
+    <state x="1918" y="179" width="248" height="305" key="cloudConfig.SelfSettingsDialog" timestamp="1616034868880">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1918" y="179" width="248" height="305" key="cloudConfig.SelfSettingsDialog/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616034868880" />
+    <state x="1366" y="0" width="618" height="768" key="find.popup" timestamp="1620015871047">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1366" y="0" width="618" height="768" key="find.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1620015871047" />
+    <state x="1711" y="170" key="run.anything.popup" timestamp="1619995883579">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="345" y="170" key="run.anything.popup/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1618958445601" />
+    <state x="1711" y="170" key="run.anything.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1619995883579" />
+  </component>
+</project>
