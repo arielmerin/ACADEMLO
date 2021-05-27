@@ -3,6 +3,7 @@ import Board from './Board'
 import {useState} from 'react'
 import ResetButton from "./ResetButton";
 import Turn from "./Turn";
+import "./Board.css"
 
 
 const Game = () =>{
