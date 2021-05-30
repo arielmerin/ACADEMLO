@@ -3,6 +3,8 @@ import ButtonConverter from "./ButtonConverter";
 import Pronostic from "./Pronostic";
 import MainTemperature from "./MainTemperature";
 import '../styles.css'
+import RequireUbication from "./RequireUbication";
+import Loading from "./Loading";
 
 const WeatherContainer = () =>{
 
@@ -22,6 +24,8 @@ const WeatherContainer = () =>{
     const [sunrise, setSunrise] = useState('')
     const [sunset, setSunset] = useState('')
     const [degrees, setDegrees] = useState(true)
+    const [isLoading, setIsLoading] = useState(true)
+    const key = 'f286f8c580f69e5c65f3036b0edc122f'
 
     useEffect(() =>{
 
@@ -48,7 +52,9 @@ const WeatherContainer = () =>{
                 '&lon=' +
                 longitude+
                 '&units=metric'+
-                '&appid=f286f8c580f69e5c65f3036b0edc122f')
+                '&appid='+ key
+                + '&lang=sp'
+            )
                 .then(response => response.json())
                 .then(res =>{
                     setData(res)
@@ -59,6 +65,9 @@ const WeatherContainer = () =>{
 
     useEffect(() => {
         if(data){
+            setTimeout(()=>{
+                setIsLoading(false)
+            }, 500)
             setCity(data.name)
             setCountry(data.sys.country)
             setIconUrl('http://openweathermap.org/img/w/' +data.weather[0].icon  + '.png')
@@ -75,8 +84,8 @@ const WeatherContainer = () =>{
     }, [data])
 
     const toTime = (unix, timeZone) =>{
-        let date = new Date((unix  - timeZone) * 1000)
-        return date.toLocaleTimeString('es-MX')
+        let date = new Date((unix  + timeZone) * 1000)
+        return date.toLocaleTimeString('en-US', {timeZone: 'UTC'})
     }
 
     const toggleUnits = () =>{
@@ -108,13 +117,13 @@ const WeatherContainer = () =>{
     };
 
     return(
-        latitude ? <main>
+        !latitude ? <RequireUbication/> :
+            isLoading? <Loading/> : <main>
             <h1>Weather App</h1>
             <h6>By Ariel Merino</h6>
             <h3>{country}/{city}</h3>
             <div className="main-container">
                 <div>
-
                     <Pronostic
                         clouds={clouds}
                         description={description}
@@ -132,8 +141,8 @@ const WeatherContainer = () =>{
                     <ButtonConverter handleClick={toggleUnits} />
                 </div>
             </div>
-        </main> : <div>Allow Ubication to this website</div>
-    )
+        </main>
+        )
 }
 
 export default WeatherContainer;

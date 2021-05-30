@@ -3,8 +3,6 @@ import {useState, useEffect} from 'react'
 const Geolocation = ({latitude, longitude}) =>{
 
 
-
-
     return(
         <>
             Obtaining your location
