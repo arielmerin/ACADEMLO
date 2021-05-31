@@ -128,7 +128,7 @@ const WeatherContainer = () =>{
                         clouds={clouds}
                         description={description}
                         maxTemp={maxTemp}
-                        degrees={toggleDegrees(degrees)}
+                        d  egrees={toggleDegrees(degrees)}
                         minTemp={minTemp}
                         pressure={pressure}
                         sunrise={sunrise}
