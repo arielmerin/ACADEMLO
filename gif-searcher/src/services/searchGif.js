@@ -1,3 +1,6 @@
+// Esto es un servicio
+
+
 
 const searchGif = query =>{
     const url = `https://api.giphy.com/v1/gifs/search?q=
