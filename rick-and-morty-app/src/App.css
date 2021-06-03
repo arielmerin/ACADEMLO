@@ -36,14 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.poke-container{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-}
-
-.pokemon-item{
-  margin: 1em;
-}
