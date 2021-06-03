@@ -6,8 +6,8 @@ const Search = ({handleSearch}) =>{
 
     return (
         <>
-            <input type="text" value={value} onChange={event =>{
-                setValue(encodeURI(event.target.value))
+            <input placeholder="type" type="text" value={value} onChange={event =>{
+                setValue(encodeURI(event.target.value) )
             }}/>
             <button onClick={()=>{
                 if(value){

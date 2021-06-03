@@ -2,33 +2,40 @@ import './App.css';
 import React, {useEffect, useState} from 'react';
 import Pokemon from "./components/Pokemon";
 import Search from "./components/Search";
+import getPokeByType from "./services/getPokeByType";
+import NumberItems from "./components/NumberItems";
 
 function App() {
-
-  const [queryTerm, setQueryTerm] = useState('grass')
-  const [pokemonUrls, setPokemonUrls] = useState(['https://pokeapi.co/api/v2/pokemon/1/',])
-
-  const baseUrl = 'https://pokeapi.co/api/v2/type/'
-
-  useEffect(() => {
+    const [queryTerm, setQueryTerm] = useState('1')
+    const [pokeURL, setPokeURL] = useState([])
+    const [displayItems, setDisplayItems] = useState(5)
 
 
-    fetch(baseUrl+queryTerm)
-        .then(data => data.json())
-        .then(dat => {
-          console.log(dat)
-          setPokemonUrls(dat.pokemon)
+    useEffect(() =>{
+
+        getPokeByType(queryTerm)
+            .then(res =>{
+                setPokeURL(res.data.pokemon.slice())
+            })
+        }, [queryTerm]
+    )
+
+    const list = (elements) =>{
+        const displayElements = pokeURL.slice(0,elements)
+        return displayElements.map((item, key) =>{
+            return <Pokemon url={item.pokemon.url} key={item.pokemon.name}/>
         })
-  },[queryTerm])
-
-
-
+    }
 
   return (
     <div className="App">
       <header className="App-header">
         <Search handleSearch={setQueryTerm} />
-          <Pokemon url={pokemonUrls[0]}/>
+        <NumberItems handleChange={setDisplayItems} value={displayItems}/>
+        <div className='poke-container'>
+
+          {list(displayItems)}
+        </div>
       </header>
     </div>
   );

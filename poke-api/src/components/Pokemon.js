@@ -23,7 +23,7 @@ const Pokemon = ({url}) =>{
 
     },[url])
     return(
-        <div>
+        <div className='pokemon-item'>
             < PokemonItem type={type} img={imgUrl} name={name} />
         </div>
     )

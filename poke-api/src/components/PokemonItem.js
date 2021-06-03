@@ -2,9 +2,9 @@
 const PokemonItem = ({img, name, type}) =>{
     return(
         <div>
-            <h3>{name}</h3>
+            <h3 style={{margin:0}}>{name}</h3>
             <img src={img} alt={name}/>
-            <h6>{type}</h6>
+            <h6 style={{margin:0}}>{type}</h6>
         </div>
     )
 }
