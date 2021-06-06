@@ -1,6 +1,7 @@
 
 import {useState} from 'react'
 import styled from 'styled-components'
+import SuggestConainer from "./suggest/SuggestContainer";
 
 
 const StyledInput = styled.input`
@@ -22,15 +23,34 @@ const StyledInput = styled.input`
 `
 
 const StyledContainer = styled.div`
-      margin-top: 40vh;
       margin-bottom: 1rem;
 `
+
+const StyledLogo = styled.div`
+width: 100vw;
+  & img{
+    width: 80%;
+    max-width: 900px;
+  }
+`
+
+const info =["Earth (C-137)", "Abadango", "Citadel of Ricks", "Worldender's lair", "Anatomy Park", "Interdimensional Cable", "Immortality Field Resort", "Post-Apocalyptic Earth", "Purge Planet", "Venzenulon 7", "Bepis 9", "Cronenberg Earth", "Nuptia 4", "Giant's Town", "Bird World", "St. Gloopy Noops Hospital", "Earth (5-126)", "Mr. Goldenfold's dream", "Gromflom Prime", "Earth (Replacement Dimension)"]
 
 const SearchBox = ({handleClick}) =>{
 
     const [value, setValue] = useState('')
     return <StyledContainer>
-        <StyledInput type="text" placeholder="Location" onChange={e => setValue(e.target.value)} onKeyUp={()=> handleClick(value)} />
+        <StyledLogo >
+            <img src="./logo.svg" alt=""  />
+        </StyledLogo>
+        <StyledInput type="text" placeholder="Location" onChange={(e) => {
+            setValue(e.target.value)
+            handleClick(value)
+        }} onKeyUp={()=> handleClick(value)} value={value}/>
+        <SuggestConainer elements={info} handleClick={(value) =>{
+            setValue(value)
+            handleClick(value)
+        }} />
     </StyledContainer>
 }
 

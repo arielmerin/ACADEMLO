@@ -8,6 +8,10 @@ import styled from 'styled-components';
 const StyledApp = styled.div`
           background-color: #353a44;
 `
+const StyledFooter = styled.footer`
+  color:white;
+  margin-bottom:10px;
+`
 
 
 function App() {
@@ -20,6 +24,7 @@ function App() {
           <StyledApp>
               <SearchBox handleClick={setQueryTerm}/>
               <LocationContainer locationId={location} locationName={queryTerm}/>
+              <StyledFooter>made w love by Ariel Merino</StyledFooter>
           </StyledApp>
   );
 }
