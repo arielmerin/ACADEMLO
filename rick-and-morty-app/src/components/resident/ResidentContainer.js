@@ -1,8 +1,28 @@
 import ResidentInfo from "./ResidentInfo";
-
+import styled from "styled-components";
 import {useState, useEffect} from 'react';
 import axios from "axios";
 
+const StyledResident = styled.div`
+      width: 10%;
+      min-width: 100px;
+      display: flex;
+      margin: 10px 15px;
+      padding: 10px;
+      color: white;
+     
+      background-color: #484f5c;
+      border-radius: 16px;
+      
+      & img{
+      border-radius: 10%;
+      width: 100%;
+      }
+      & h3{
+      font-size: 1rem;
+      }
+
+`
 
 const ResidentContainer = ({url}) =>{
 
@@ -24,9 +44,9 @@ const ResidentContainer = ({url}) =>{
     }, [url])
 
     return(
-        <div>
+        <StyledResident>
             <ResidentInfo name={name} imgUrl={imgURL} episodes={episodes} status={status} />
-        </div>
+        </StyledResident>
     )
 }
 
