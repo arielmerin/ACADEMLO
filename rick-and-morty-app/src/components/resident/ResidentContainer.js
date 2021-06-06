@@ -7,7 +7,7 @@ const StyledResident = styled.div`
       width: 10%;
       min-width: 100px;
       display: flex;
-      margin: 10px 15px;
+      margin: 10px 6px;
       padding: 10px;
       color: white;
      
@@ -30,6 +30,7 @@ const ResidentContainer = ({url}) =>{
     const [imgURL, setImgURL] = useState('')
     const [status, setStatus] = useState('')
     const [episodes, setEpisodes] = useState('')
+    const [origin, setOrigin] = useState('')
 
     useEffect(()=>{
         if(url){
@@ -39,13 +40,14 @@ const ResidentContainer = ({url}) =>{
                 setImgURL(res.data.image)
                 setStatus(res.data.status)
                 setEpisodes(res.data.episode.length)
+                setOrigin(res.data.origin.name)
             })
         }
     }, [url])
 
     return(
         <StyledResident>
-            <ResidentInfo name={name} imgUrl={imgURL} episodes={episodes} status={status} />
+            <ResidentInfo name={name} imgUrl={imgURL} episodes={episodes} status={status}  origin={origin}/>
         </StyledResident>
     )
 }

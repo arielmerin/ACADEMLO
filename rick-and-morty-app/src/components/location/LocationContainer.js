@@ -7,6 +7,8 @@ import styled from 'styled-components'
 const StyledContainer = styled.div`
       display: flex;
       flex-wrap: wrap;
+      width: 90%;
+      margin: 0 auto;
       justify-content: center;
       align-items: center;
       top: 0;
