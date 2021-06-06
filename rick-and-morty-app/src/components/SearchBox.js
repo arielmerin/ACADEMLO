@@ -30,7 +30,7 @@ const SearchBox = ({handleClick}) =>{
 
     const [value, setValue] = useState('')
     return <StyledContainer>
-        <StyledInput type="text" placeholder="Location" onChange={e => setValue(e.target.value)} onSubmit={()=> handleClick(value)} />
+        <StyledInput type="text" placeholder="Location" onChange={e => setValue(e.target.value)} onKeyUp={()=> handleClick(value)} />
     </StyledContainer>
 }
 
