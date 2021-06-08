@@ -1,17 +1,6 @@
 
-import {useEffect } from 'react'
-import PrimeInfo from "./PrimeInfo";
-
-
-
-const PrimesContainer = ({ primes })=>{
-
-    const primeList = primes.map((value, index) =>{
-        return <PrimeInfo prime={value.primeInput} date={value.dateDiscover} key={index} />
-    })
-
+const PrimesContainer = ({  })=>{
     return <div>
-        {primeList}
     </div>
 }
 

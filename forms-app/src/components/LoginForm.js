@@ -1,6 +1,5 @@
-import styled from 'styled-components'
 import { useForm } from 'react-hook-form'
-import {useState, useEffect} from 'react'
+import {useState} from 'react'
 import PrimesContainer from "./PrimeContainer";
 
 const LoginForm = () =>{
