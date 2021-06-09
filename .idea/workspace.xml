@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/weather-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/charlie-quotes-app" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -127,6 +127,7 @@
       <workItem from="1622082989153" duration="3852000" />
       <workItem from="1622122695575" duration="389000" />
       <workItem from="1622123100254" duration="2109000" />
+      <workItem from="1623115301167" duration="333000" />
     </task>
     <servers />
   </component>
@@ -153,11 +154,11 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="363" y="160" width="629" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1615256188634" />
-    <state x="1820" y="-14" width="428" height="482" key="FileChooserDialogImpl" timestamp="1622125481111">
+    <state x="1818" y="-40" width="428" height="482" key="FileChooserDialogImpl" timestamp="1623115636075">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="460" y="64" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1618959360491" />
-    <state x="1820" y="-14" width="428" height="482" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1622125481111" />
+    <state x="1818" y="-40" width="428" height="482" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1623115636075" />
     <state width="745" height="209" key="GridCell.Tab.0.bottom" timestamp="1615343681855">
       <screen x="1366" y="0" width="768" height="1366" />
     </state>
