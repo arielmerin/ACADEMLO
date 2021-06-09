@@ -40,7 +40,6 @@ function App() {
 				setIsLoading(false)
 
 			}, error =>{
-				console.log(error)
 				setIsLoading(false)
 			})
 		}
@@ -49,7 +48,6 @@ function App() {
 	useEffect(() => {
 		if(quoteToDelete){
 			setIsLoading(true)
-			console.log('Este es id pa eliminar, ',quoteToDelete)
 			deleteMethod(quoteToDelete).then(data => {
 				setData((prevState => {
 					return prevState.filter(item => item._id !== quoteToDelete)
@@ -60,11 +58,9 @@ function App() {
 	},[quoteToDelete])
 
 	useEffect(()=>{
-		console.log('estamos desde useeffect y vamos a ver q es quote ', quoteToUpdate)
 
 		if(quoteToUpdate){
 			setIsLoading(true)
-			console.log('esto es para actualizar ', quoteToUpdate)
 			update(quoteIDToUpdate, quoteToUpdate).then(dat=>{
 				setIsLoading(false)
 				read().then(data =>

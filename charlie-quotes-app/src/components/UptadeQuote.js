@@ -10,7 +10,7 @@ const UpdateQuote = ({options, handleUpdate, prevValues}) =>{
 			setValue('quote', prevValues.quote)
 			setValue('class', prevValues.class)
 		}
-	}, [])
+	}, [prevValues, setValue])
 
 	const onSubmit = (val) =>{
 		handleUpdate(val)
