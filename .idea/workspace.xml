@@ -11,14 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/todo-app/public/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/components/CreateTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/components/CreateTodo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +134,7 @@
       <workItem from="1623283355522" duration="9790000" />
       <workItem from="1623298076061" duration="6282000" />
       <workItem from="1623304709721" duration="735000" />
-      <workItem from="1623339293739" duration="3698000" />
+      <workItem from="1623339293739" duration="4405000" />
     </task>
     <servers />
   </component>
@@ -252,9 +246,10 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1918" y="179" width="248" height="305" key="cloudConfig.SelfSettingsDialog/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1616034868880" />
-    <state x="1366" y="0" width="618" height="768" key="find.popup" timestamp="1620015871047">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="374" y="0" width="618" height="768" key="find.popup" timestamp="1623343803276">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="374" y="0" width="618" height="768" key="find.popup/0.0.1366.768/1366.0.1366.768@0.0.1366.768" timestamp="1623343803276" />
     <state x="1366" y="0" width="618" height="768" key="find.popup/0.0.1366.768/1366.0.1366.768@1366.0.1366.768" timestamp="1620015871047" />
     <state x="345" y="170" key="run.anything.popup" timestamp="1623341844923">
       <screen x="0" y="0" width="1366" height="768" />
