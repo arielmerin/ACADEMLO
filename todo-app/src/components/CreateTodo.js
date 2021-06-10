@@ -54,17 +54,17 @@ const CreateTodo = ({handleCreate}) =>{
 			<form onSubmit={handleSubmit(onSubmit)}>
 				<FieldContaier>
 					<label htmlFor="task"><br/> </label>
-					<TaskInput placeholder="Qué tienes pendiente"
+					<TaskInput placeholder="What task do you have pending?"
 					          type="text" id='task'
 					          {...register('task', {required: true})}/>
 				</FieldContaier>
 				<FieldContaier>
 					<label htmlFor="student"><br/> </label>
-					<StudentInput placeholder="Quién lo va a realizar"
+					<StudentInput placeholder="Who is going to do it?"
 					       type="student" id='student'
 					       {...register('student', {required: true})}/>
 				</FieldContaier>
-				<RegisterButton>Registrar</RegisterButton>
+				<RegisterButton>Register</RegisterButton>
 			</form>
 		</FormContainer>
 	)
