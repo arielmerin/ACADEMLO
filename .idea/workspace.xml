@@ -11,15 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/todo-app/src/services/deleteTask.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/components/CreateTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/components/CreateTodo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo-app/src/components/TodoContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/components/TodoContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/components/TodoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/components/TodoItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/services/create.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/services/create.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +132,8 @@
       <workItem from="1622123100254" duration="2109000" />
       <workItem from="1623115301167" duration="333000" />
       <workItem from="1623283355522" duration="9790000" />
-      <workItem from="1623298076061" duration="5907000" />
+      <workItem from="1623298076061" duration="6282000" />
+      <workItem from="1623304709721" duration="68000" />
     </task>
     <servers />
   </component>

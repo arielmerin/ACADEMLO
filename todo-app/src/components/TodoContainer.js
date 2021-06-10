@@ -18,6 +18,7 @@ const TodoContainer = () =>{
 
 	const TaskContainer = styled.div`
 		display: flex;
+		wrap: wrap;
 	`
 
 	const refresh = () =>{
