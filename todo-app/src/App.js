@@ -1,4 +1,3 @@
-
 import './App.css';
 import TodoContainer from "./components/TodoContainer";
 
@@ -7,8 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-
-          <h3>Tareas pendientes</h3>
+          <h1 style={{color: "#333333"}}>Tareas pendientes</h1>
           <TodoContainer />
       </header>
     </div>

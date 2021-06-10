@@ -8,6 +8,14 @@ import create from "../services/create";
 import deleteTask from "../services/deleteTask";
 import styled from "styled-components";
 
+const TaskContainer = styled.div`
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	`
+
+
+
 const TodoContainer = () =>{
 	const [todos, setTodos] = useState([]);
 	const [markAsDone, setMarkAsDone] = useState(0);
@@ -16,10 +24,7 @@ const TodoContainer = () =>{
 	const [createTask, setCreateTask] = useState(null)
 	const [idDeleteTask, setIdDeleteTask] = useState(0)
 
-	const TaskContainer = styled.div`
-		display: flex;
-		flex-wrap: wrap;
-	`
+
 
 	const refresh = () =>{
 		get().then(todos =>{
@@ -41,14 +46,12 @@ const TodoContainer = () =>{
 	}
 
 	const handleDeleteTask = (id)=>{
-		console.log('esto es pa borrar compa ', id)
 		setIdDeleteTask(id)
 	}
 
 	useEffect(() => {
 		if(idDeleteTask){
-			deleteTask(idDeleteTask).then(r =>{
-				console.log(r)
+			deleteTask(idDeleteTask).then(response =>{
 				refresh()
 			} )
 		}
@@ -56,10 +59,7 @@ const TodoContainer = () =>{
 
 	useEffect(() => {
 		if(createTask){
-			console.log(createTask)
 			create(createTask).then((data) => {
-				console.log('lo hiciemos jasjdfja')
-				console.log(data)
 				refresh()
 			})
 		}
@@ -68,17 +68,23 @@ const TodoContainer = () =>{
 
 	useEffect(()=>{
 		if(markAsDone){
-			console.log('orale pues ya entró al markastone')
-			update(markAsDone, {...newTask, isCompleted: !currentStatus}).then((dat)=>{
-				setMarkAsDone(null)
-				setNewTask(null)
-				refresh()
-			})
+			update(markAsDone, {...newTask, isCompleted: !currentStatus})
+				.then((dat)=>{
+					setMarkAsDone(null)
+					setNewTask(null)
+					refresh()
+				})
 		}
 	},[markAsDone, currentStatus, newTask])
 
 	const listTodos = todos.map((todo)=>{
-		return <TodoItem handleCompleted={handleCompleted} task={todo.task} key={todo.id}  isCompleted={todo.isCompleted} student={todo.student} id={todo.id} handleDelete={handleDeleteTask} />
+		return <TodoItem
+				handleCompleted={handleCompleted}
+				task={todo.task} key={todo.id}
+				isCompleted={todo.isCompleted}
+				student={todo.student}
+				id={todo.id}
+				handleDelete={handleDeleteTask} />
 	})
 
 	return(
