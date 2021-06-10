@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,8 @@
       <workItem from="1623283355522" duration="9790000" />
       <workItem from="1623298076061" duration="6282000" />
       <workItem from="1623304709721" duration="735000" />
-      <workItem from="1623339293739" duration="4405000" />
+      <workItem from="1623339293739" duration="5040000" />
+      <workItem from="1623347251970" duration="1196000" />
     </task>
     <servers />
   </component>
