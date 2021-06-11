@@ -1,22 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react'
+
+import {HashRouter as Router} from 'react-router-dom'
+import NavigationBar from "./components/NavigationBar";
+import Routes from "./components/Routes";
+import {useAuth} from "./provider/AuthProvider";
 
 function App() {
+    const auth = useAuth()
+    console.log('Esto es el objeto auth desde app ', auth)
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Router>
+            <NavigationBar />
+            <Routes/>
+        </Router>
       </header>
     </div>
   );
