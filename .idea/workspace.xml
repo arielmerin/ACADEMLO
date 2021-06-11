@@ -11,22 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fbacf1-d66e-49c8-8350-f2605dab0b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/components/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/components/AppR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/components/FAQ.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/components/NavigationBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/components/ProtectedRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/components/Routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/components/Store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/ejemploContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-rooter-app/src/provider/AuthProvider.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-rooter-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-rooter-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-rooter-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-rooter-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-rooter-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/react-rooter-app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-rooter-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-rooter-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-rooter-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-rooter-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-rooter-app/src/components/ProtectedRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-rooter-app/src/components/ProtectedRoute.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +136,7 @@
       <workItem from="1623304709721" duration="735000" />
       <workItem from="1623339293739" duration="5040000" />
       <workItem from="1623347251970" duration="18485000" />
-      <workItem from="1623370102685" duration="1200000" />
+      <workItem from="1623370102685" duration="2083000" />
     </task>
     <servers />
   </component>

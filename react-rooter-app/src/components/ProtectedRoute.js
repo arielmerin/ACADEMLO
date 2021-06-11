@@ -9,7 +9,7 @@ const ProtectedRoute = ({children, ...props}) =>{
             render={
             	({location}) => auth.entrenadorPokemon ?
 		            (children) :
-		            (<Redirect to={{pathname: '/home', state: {from: location}}}/>)
+		            (<Redirect to={{pathname: '/about', state: {from: location}}}/>)
             }
 	/>)
 }
